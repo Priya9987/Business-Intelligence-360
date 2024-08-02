@@ -1,5 +1,5 @@
 # Business-Intelligence-360
-# Dashboard [Link ](https://app.powerbi.com/view?r=eyJrIjoiMWNjNzU4OTctZjA4Yi00MTk0LThmZTUtMGUzYTc1MTQ1MGRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Dashboard [Link ](https://app.powerbi.com/view?r=eyJrIjoiMWNjNzU4OTctZjA4Yi00MTk0LThmZTUtMGUzYTc1MTQ1MGRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 # Problem Statement
 Atliq is a hardware manufacturing company and it sells goods to different customers such as Croma, Best Buy, Staples, Flipkart and so on. These customers sell those goods to end consumers through online (E-commerce) as well as offline stores (Brick and Mortar). While their business grows substantially across the globe, they have some bitter performance in Latin America. Even though they tried to open their stores to establish their presence there, eventually ended up with a huge loss. The major cause of this downfall because of their false intuitions based on some surveys. Previously they did all the analytical operations in Excel itself. Now they become a large firm and Excel is not going to work any more for them. To make accurate data-driven decisions, the company approached the data analytics team. As a team member, I need to do a Power BI report which helps to draw useful insights from the data.
 # Theory
